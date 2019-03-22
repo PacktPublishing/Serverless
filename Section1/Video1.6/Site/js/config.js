@@ -1,1 +1,0 @@
-var ChatApp = window.ChatApp || {};
